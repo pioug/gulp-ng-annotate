@@ -30,7 +30,7 @@
     "bufferstreams": "^1.1.0",
     "gulp-util": "^3.0.7",
     "merge": "^1.2.0",
-    "ng-annotate": "^1.2.1",
+    "ng-annotate": "git://github.com/pioug/ng-annotate#v1.3.0",
     "through2": "^2.0.1",
     "vinyl-sourcemaps-apply": "^0.2.1"
   },
