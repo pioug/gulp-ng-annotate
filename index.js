@@ -2,7 +2,7 @@
 
 var gutil = require("gulp-util");
 var through = require("through2");
-var ngAnnotate = require("ng-annotate");
+var ngAnnotate = require("@pioug/ng-annotate");
 var applySourceMap = require("vinyl-sourcemaps-apply");
 var merge = require("merge");
 var BufferStreams = require("bufferstreams");
